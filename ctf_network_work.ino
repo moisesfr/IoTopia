@@ -1,5 +1,5 @@
 /********************
-  Relays oooooooooooooooooooooyeeeeeeeeeeeeeeeeee
+  Relays 
 *********************/
 #define RELAY1  22                        
 #define RELAY2  24    
