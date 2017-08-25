@@ -1,5 +1,5 @@
 /*
-   BYJ48 Stepper motor code testing
+   BYJ48 Stepper motor
    Connect :
    IN1 >> D8
    IN2 >> D9
