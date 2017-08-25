@@ -1,5 +1,5 @@
 /*
-   BYJ48 Stepper motor
+   BYJ48 Stepper motor 123
    Connect :
    IN1 >> D8
    IN2 >> D9
