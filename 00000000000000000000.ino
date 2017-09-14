@@ -1,4 +1,4 @@
-888111111111111111111111111111
+00
 long baudRate = 115200;
 const char* strBoard = "UnoI_Board_4";
 
